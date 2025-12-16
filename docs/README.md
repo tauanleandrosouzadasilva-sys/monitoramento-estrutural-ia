@@ -34,3 +34,5 @@ monitoramento-estrutural-ia/
 │
 └── LICENSE
 
+(Monitoramento Estrutural Ponte (https://notebooklm.google.com/notebook/f21f4c87-3e88-4a35-83ad-0f5a1bbe0b07?artifactId=ed91d980-4f6c-47fb-8077-9c5129466c4e)
+
